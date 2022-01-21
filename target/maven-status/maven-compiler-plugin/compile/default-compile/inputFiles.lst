@@ -1,0 +1,12 @@
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/model/CardValue.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/services/DefaultCardsService.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/model/Card.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/confuguration/CardsProperties.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/model/Color.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/controllers/CardsController.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/model/Value.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/repository/CardsRepository.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/CardGameApplication.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/model/CardColor.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/repository/InMemoryCardsRepository.java
+/Users/theboss/WorkSpaces/test/challenge-ATEXO-card-game/challenge-ATEXO-back-card-game/src/main/java/test/atexo/cardgame/services/CardsService.java
